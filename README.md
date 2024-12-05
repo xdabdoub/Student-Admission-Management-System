@@ -1,2 +1,2 @@
 # Student-Admission-Management-System
-Project #1 of COMP242 (Data Structure) of Fall Semester 2024
+Project #2 of COMP242 (Data Structure) of Fall Semester 2024
